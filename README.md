@@ -20,7 +20,7 @@
 
 «Разработка мини-ОС с акцентом на безопасность веб-сервера»
 
-Источник: <...>
+[Источник](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_ZtqySS-Ozp3H3QZ-lBXXGKoroBFBGBPDlAVYCCwt2a9QvgdBblzaPhEJHrJ2PwCZ3YUY48_EOG-C/pubhtml?gid=1547202353&single=true)
 
 ## Ответственный по проектной (учебной) практике
 
