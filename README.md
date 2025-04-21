@@ -10,7 +10,7 @@
 
 ## Задание
 
-<...>
+Задание размещено в папке **task** в файле [README.md](task/README.md).
 
 Файлы сайта расположены в [ветке website](https://github.com/0-DAyFF13R/Minlin-OS/tree/website).
 
