@@ -4,5 +4,5 @@
 # Постобработка
 https://drive.google.com/file/d/1Hax6NQEvdeqDsqhif5vb3sP-AAhQWRXR/view?usp=sharing
 
-# Готовый образ системы
+# Готовый образ системы (в процессе доработки)
 https://drive.google.com/file/d/1gmz5UQNtLCoNeLAU3PUTrVGuwF6d8xyi/view?usp=sharing
